@@ -4,8 +4,6 @@ import pandas as pd
 import math
 import os
 import sys
-import tempfile
-import base64
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 

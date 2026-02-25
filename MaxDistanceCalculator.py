@@ -511,7 +511,7 @@ def refresh_plot():
 # ═══════════════════════════════════════════════════════════════════════
 
 window = tk.Tk()
-window.title("Max Distance Calculator v1.3")
+window.title("Max Distance Calculator v1.31")
 window.geometry("750x850")
 window.minsize(700, 600)
 
